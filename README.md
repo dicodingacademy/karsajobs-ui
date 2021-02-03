@@ -1,5 +1,5 @@
 # karsajobs-ui
-Frontend for [karsajobs](https://github.com/nothinux/karsajobs)
+Frontend for [karsajobs](https://github.com/dicodingacademy/karsajobs)
 
 ## Project setup
 ```
