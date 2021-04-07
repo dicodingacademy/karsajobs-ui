@@ -1,4 +1,4 @@
-FROM node:lts-alpine as builder
+FROM nothinux/node-alpine:latest as builder
 WORKDIR /app
 COPY package*.json ./
 RUN npm install
